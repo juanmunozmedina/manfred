@@ -331,10 +331,6 @@
         {
           "name": "React",
           "type": "technology"
-        },
-        {
-          "name": "Vue",
-          "type": "technology"
         }
       ],
       "discardedCompetences": [
